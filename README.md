@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working in GDSC DTC as a Flutter Mentor
+- 🔭 Worked in GDSC DTC as a Flutter Mentor
 
 - 🌱 I’m currently learning Python and Its Frameworks 
 

@@ -6,7 +6,7 @@
 <h3 align="center">Crafting solutions through code | Flutter Dev 🚀 | Open Source Enthusiast 🌐</h3>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=rudranshsinghmahra.rudranshsinghmahra" alt="visitor badge"/>
+  <img src="https://img.shields.io/badge/Visitors-%E2%9C%94-brightgreen" alt="visitor badge"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@ An app suite to simplify doctor-patient appointment bookings.
 ## 🤝 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/rudransh-singh-mahra-9638a319a/"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="32px"/></a>
-  <a href="https://twitter.com/Rudrans50221782"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" width="32px"/></a>
+  <a href="https://x.com/MahraRudransh"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" width="32px"/></a>
   <a href="https://medium.com/@rudranshsinghmahra"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" width="32px"/></a>
   <a href="https://github.com/rudranshsinghmahra"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="32px"/></a>
 </p>
